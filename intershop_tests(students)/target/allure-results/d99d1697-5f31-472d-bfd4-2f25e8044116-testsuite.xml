@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1607968489511" stop="1607968623928" version="1.4.16" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Default Suite : intershop-tests</name>
+    <title>Default Suite : intershop-tests</title>
+    <test-cases>
+        <test-case start="1607968489602" stop="1607968505958" status="passed">
+            <name>createCustomer</name>
+            <title>Create customer</title>
+            <description type="text">Create customer via UI API</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="severity" value="blocker"/>
+                <label name="feature" value="Customer feature"/>
+                <label name="host" value="HOME-PC"/>
+                <label name="thread" value="10020@HOME-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1607968506094" stop="1607968518190" status="passed">
+            <name>createCustomerWithPasswordContainsFirstName</name>
+            <title>Create customer</title>
+            <description type="text">Create customer via API with password contains FirstName</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="severity" value="blocker"/>
+                <label name="feature" value="Customer feature"/>
+                <label name="host" value="HOME-PC"/>
+                <label name="thread" value="10020@HOME-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1607968518195" stop="1607968528848" status="passed">
+            <name>createCustomerWithPasswordContainsLastName</name>
+            <title>Create customer</title>
+            <description type="text">Create customer via API with password contains LastName</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="severity" value="blocker"/>
+                <label name="feature" value="Customer feature"/>
+                <label name="host" value="HOME-PC"/>
+                <label name="thread" value="10020@HOME-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1607968528851" stop="1607968540440" status="passed">
+            <name>createCustomerWithPasswordContainsLogin</name>
+            <title>Create customer</title>
+            <description type="text">Create customer via API with password contains login</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="severity" value="blocker"/>
+                <label name="feature" value="Customer feature"/>
+                <label name="host" value="HOME-PC"/>
+                <label name="thread" value="10020@HOME-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1607968540442" stop="1607968550832" status="passed">
+            <name>createCustomerWithPasswordContainsWhitespace</name>
+            <title>Create customer</title>
+            <description type="text">Create customer via API with password contains whitespace</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="severity" value="blocker"/>
+                <label name="feature" value="Customer feature"/>
+                <label name="host" value="HOME-PC"/>
+                <label name="thread" value="10020@HOME-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1607968550834" stop="1607968561275" status="passed">
+            <name>createCustomerWithPasswordWithoutLowercaseLetters</name>
+            <title>Create customer</title>
+            <description type="text">Create customer via API with password without lowercase letters</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="severity" value="blocker"/>
+                <label name="feature" value="Customer feature"/>
+                <label name="host" value="HOME-PC"/>
+                <label name="thread" value="10020@HOME-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1607968561277" stop="1607968574125" status="passed">
+            <name>createCustomerWithPasswordWithoutNumbers</name>
+            <title>Create customer</title>
+            <description type="text">Create customer via API with password without numbers</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="severity" value="blocker"/>
+                <label name="feature" value="Customer feature"/>
+                <label name="host" value="HOME-PC"/>
+                <label name="thread" value="10020@HOME-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1607968574127" stop="1607968584205" status="passed">
+            <name>createCustomerWithPasswordWithoutSpecialCharacters</name>
+            <title>Create customer</title>
+            <description type="text">Create customer via API with password without special characters</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="severity" value="blocker"/>
+                <label name="feature" value="Customer feature"/>
+                <label name="host" value="HOME-PC"/>
+                <label name="thread" value="10020@HOME-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1607968584207" stop="1607968594261" status="passed">
+            <name>createCustomerWithPasswordWithoutUppercaseLetters</name>
+            <title>Create customer</title>
+            <description type="text">Create customer via API with password without uppercase letters</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="severity" value="blocker"/>
+                <label name="feature" value="Customer feature"/>
+                <label name="host" value="HOME-PC"/>
+                <label name="thread" value="10020@HOME-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1607968594263" stop="1607968604313" status="passed">
+            <name>createCustomerWithWrongFirstName</name>
+            <title>Create customer</title>
+            <description type="text">Create customer via UI API with wrong first name</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="severity" value="blocker"/>
+                <label name="feature" value="Customer feature"/>
+                <label name="host" value="HOME-PC"/>
+                <label name="thread" value="10020@HOME-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1607968604316" stop="1607968614108" status="passed">
+            <name>createCustomerWithWrongLastName</name>
+            <title>Create customer</title>
+            <description type="text">Create customer via UI API with wrong last name</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="severity" value="blocker"/>
+                <label name="feature" value="Customer feature"/>
+                <label name="host" value="HOME-PC"/>
+                <label name="thread" value="10020@HOME-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1607968614110" stop="1607968623918" status="passed">
+            <name>createCustomerWithWrongLogin</name>
+            <title>Create customer</title>
+            <description type="text">Create customer via UI API with wrong login</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="severity" value="blocker"/>
+                <label name="feature" value="Customer feature"/>
+                <label name="host" value="HOME-PC"/>
+                <label name="thread" value="10020@HOME-PC.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="TestNG"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

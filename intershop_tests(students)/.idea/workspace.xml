@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="070c90d0-9a1e-446c-bcfb-eb57e3407178" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="107" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1lFNNZHaIvbkSA3cijTIS5lm5q4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.14257812" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="web.server" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="ru.nsu.vki.tests.ui" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\eqs\Downloads\intershop_tests(students)\src\main\java\ru\nsu\vki\tests\api" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.AcceptanceTest">
+    <configuration default="true" type="ClojureREPL" factoryName="Local" activateToolWindowBeforeRun="false">
+      <setting name="replType" value="NREPL" />
+      <setting name="execution" value="LEININGEN" />
+      <module name="" />
+      <setting name="jvmArgs" value="" />
+      <setting name="parameters" value="" />
+      <setting name="workingDir" value="" />
+      <setting name="profiles" value="" />
+      <setting name="aliases" value="" />
+      <setting name="fixLineNumbers" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="ClojureREPL" factoryName="Remote" activateToolWindowBeforeRun="false">
+      <setting name="host" value="" />
+      <setting name="port" value="0" />
+      <setting name="replType" value="SOCKET" />
+      <setting name="configType" value="SPECIFY" />
+      <setting name="fixLineNumbers" value="false" />
+      <module name="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="AcceptanceTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="intershop-tests" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.nsu.vki.tests.ui.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.nsu.vki.tests.ui" />
+      <option name="MAIN_CLASS_NAME" value="ru.nsu.vki.tests.ui.AcceptanceTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AcceptanceTest.createCustomerWithPasswordWithoutLowercaseLetters" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="intershop-tests" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.nsu.vki.tests.ui.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.nsu.vki.tests.ui" />
+      <option name="MAIN_CLASS_NAME" value="ru.nsu.vki.tests.ui.AcceptanceTest" />
+      <option name="METHOD_NAME" value="createCustomerWithPasswordWithoutLowercaseLetters" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AcceptanceTest.createCustomerWithPasswordWithoutUppercaseLetters" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="intershop-tests" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.nsu.vki.tests.ui.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.nsu.vki.tests.ui" />
+      <option name="MAIN_CLASS_NAME" value="ru.nsu.vki.tests.ui.AcceptanceTest" />
+      <option name="METHOD_NAME" value="createCustomerWithPasswordWithoutUppercaseLetters" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AcceptanceTest.createCustomerWithWrongLogin" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="intershop-tests" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.nsu.vki.tests.ui.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.nsu.vki.tests.ui" />
+      <option name="MAIN_CLASS_NAME" value="ru.nsu.vki.tests.ui.AcceptanceTest" />
+      <option name="METHOD_NAME" value="createCustomerWithWrongLogin" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CreateUser" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="intershop-tests" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.nsu.vki.tests.api.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.nsu.vki.tests.api" />
+      <option name="MAIN_CLASS_NAME" value="ru.nsu.vki.tests.api.CreateUser" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.AcceptanceTest" />
+        <item itemvalue="TestNG.CreateUser" />
+        <item itemvalue="TestNG.AcceptanceTest.createCustomerWithPasswordWithoutLowercaseLetters" />
+        <item itemvalue="TestNG.AcceptanceTest.createCustomerWithPasswordWithoutUppercaseLetters" />
+        <item itemvalue="TestNG.AcceptanceTest.createCustomerWithWrongLogin" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="070c90d0-9a1e-446c-bcfb-eb57e3407178" name="Default Changelist" comment="" />
+      <created>1607188839465</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607188839465</updated>
+      <workItem from="1607188842487" duration="7570000" />
+      <workItem from="1607260344544" duration="1704000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/intershop_tests$CreateUser.ic" NAME="CreateUser Coverage Results" MODIFIED="1607261120227" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>ru.nsu.vki.tests.api.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/intershop_tests$CreateCustomerTest.ic" NAME="CreateCustomerTest Coverage Results" MODIFIED="1607261296825" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>ru.nsu.vki.tests.api.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/intershop_tests$CreatePlan.ic" NAME="CreatePlan Coverage Results" MODIFIED="1607261174940" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>ru.nsu.vki.tests.api.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/intershop_tests$AcceptanceTest.ic" NAME="AcceptanceTest Coverage Results" MODIFIED="1607945387215" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>ru.nsu.vki.tests.ui.*</FILTER>
+    </SUITE>
+  </component>
+</project>

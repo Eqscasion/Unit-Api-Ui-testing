@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="412c102b-cfa5-4d1a-ac2b-173d1e90894c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1lFB9cYGrMK9EhZbfWjttOZkYUQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GoToKeyword.includeLibraries" value="false" />
+    <property name="GoToNamespace.includeLibraries" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../intershop_tests/pom.xml" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="web.server" />
+  </component>
+  <component name="RunManager" selected="JUnit.CustomerManagerTest">
+    <configuration default="true" type="ClojureREPL" factoryName="Local" activateToolWindowBeforeRun="false">
+      <setting name="replType" value="NREPL" />
+      <setting name="execution" value="LEININGEN" />
+      <module name="" />
+      <setting name="jvmArgs" value="" />
+      <setting name="parameters" value="" />
+      <setting name="workingDir" value="" />
+      <setting name="profiles" value="" />
+      <setting name="aliases" value="" />
+      <setting name="fixLineNumbers" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="ClojureREPL" factoryName="Remote" activateToolWindowBeforeRun="false">
+      <setting name="host" value="" />
+      <setting name="port" value="0" />
+      <setting name="replType" value="SOCKET" />
+      <setting name="configType" value="SPECIFY" />
+      <setting name="fixLineNumbers" value="false" />
+      <module name="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="CustomerManagerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="intershop(students)" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.nsu.vki.intershop.manager.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.nsu.vki.intershop.manager" />
+      <option name="MAIN_CLASS_NAME" value="ru.nsu.vki.intershop.manager.CustomerManagerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CustomerManagerTest.testCreateCustomer" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="intershop(students)" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.nsu.vki.intershop.manager.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.nsu.vki.intershop.manager" />
+      <option name="MAIN_CLASS_NAME" value="ru.nsu.vki.intershop.manager.CustomerManagerTest" />
+      <option name="METHOD_NAME" value="testCreateCustomer" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CustomerManagerTest.testCreateCustomerWith" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="intershop(students)" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.nsu.vki.intershop.manager.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.nsu.vki.intershop.manager" />
+      <option name="MAIN_CLASS_NAME" value="ru.nsu.vki.intershop.manager.CustomerManagerTest" />
+      <option name="METHOD_NAME" value="testCreateCustomerWith" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CustomerManagerTest.testCreateCustomerWithWrongFirstName" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="intershop(students)" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.nsu.vki.intershop.manager.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.nsu.vki.intershop.manager" />
+      <option name="MAIN_CLASS_NAME" value="ru.nsu.vki.intershop.manager.CustomerManagerTest" />
+      <option name="METHOD_NAME" value="testCreateCustomerWithWrongFirstName" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CustomerManagerTest.testCreateCustomerWithWrongLastName" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="intershop(students)" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.nsu.vki.intershop.manager.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.nsu.vki.intershop.manager" />
+      <option name="MAIN_CLASS_NAME" value="ru.nsu.vki.intershop.manager.CustomerManagerTest" />
+      <option name="METHOD_NAME" value="testCreateCustomerWithWrongLastName" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.CustomerManagerTest" />
+        <item itemvalue="JUnit.CustomerManagerTest.testCreateCustomerWith" />
+        <item itemvalue="JUnit.CustomerManagerTest.testCreateCustomer" />
+        <item itemvalue="JUnit.CustomerManagerTest.testCreateCustomerWithWrongLastName" />
+        <item itemvalue="JUnit.CustomerManagerTest.testCreateCustomerWithWrongFirstName" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="412c102b-cfa5-4d1a-ac2b-173d1e90894c" name="Default Changelist" comment="" />
+      <created>1607182808742</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607182808742</updated>
+      <workItem from="1607182813239" duration="87000" />
+      <workItem from="1607182902674" duration="8649000" />
+      <workItem from="1607262178704" duration="665000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>

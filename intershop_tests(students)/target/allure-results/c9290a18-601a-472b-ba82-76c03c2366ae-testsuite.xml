@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1607968435311" stop="1607968438503" version="1.4.16" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Default Suite : intershop-tests</name>
+    <title>Default Suite : intershop-tests</title>
+    <test-cases>
+        <test-case start="1607968435462" stop="1607968437381" status="passed">
+            <name>creatLongLogin</name>
+            <description>Create customer via API.</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="HOME-PC"/>
+                <label name="thread" value="15788@HOME-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1607968437578" stop="1607968437639" status="passed">
+            <name>creatShortFirstName</name>
+            <description>Create customer via API.</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="HOME-PC"/>
+                <label name="thread" value="15788@HOME-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1607968437642" stop="1607968437721" status="passed">
+            <name>creatShortLastName</name>
+            <description>Create customer via API.</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="HOME-PC"/>
+                <label name="thread" value="15788@HOME-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1607968437730" stop="1607968437772" status="passed">
+            <name>creatShortLogin</name>
+            <description>Create customer via API.</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="HOME-PC"/>
+                <label name="thread" value="15788@HOME-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1607968437780" stop="1607968437901" status="passed">
+            <name>createCustomer</name>
+            <description>Create customer via API.</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="HOME-PC"/>
+                <label name="thread" value="15788@HOME-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1607968437910" stop="1607968437958" status="passed">
+            <name>creatingAnEmptyFirstNamee</name>
+            <description>Create customer via API.</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="HOME-PC"/>
+                <label name="thread" value="15788@HOME-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1607968437960" stop="1607968438000" status="passed">
+            <name>creatingAnEmptyLastNamett</name>
+            <description>Create customer via API.</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="HOME-PC"/>
+                <label name="thread" value="15788@HOME-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1607968438001" stop="1607968438047" status="passed">
+            <name>creatingAnEmptyLogin</name>
+            <description>Create customer via API.</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="HOME-PC"/>
+                <label name="thread" value="15788@HOME-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1607968438049" stop="1607968438090" status="passed">
+            <name>creatingAnEmptyPassword</name>
+            <description>Create customer via API.</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="HOME-PC"/>
+                <label name="thread" value="15788@HOME-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1607968438091" stop="1607968438121" status="passed">
+            <name>setCustomerWithPasswordContainsFirstName</name>
+            <description>Create customer via API with password contains first name</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="HOME-PC"/>
+                <label name="thread" value="15788@HOME-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1607968438123" stop="1607968438147" status="passed">
+            <name>setCustomerWithPasswordContainsLastName</name>
+            <description>Create customer via API with password contains last name</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="HOME-PC"/>
+                <label name="thread" value="15788@HOME-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1607968438149" stop="1607968438172" status="passed">
+            <name>setCustomerWithPasswordContainsLogin</name>
+            <description>Create customer via API with password contains login</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="HOME-PC"/>
+                <label name="thread" value="15788@HOME-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1607968438174" stop="1607968438197" status="passed">
+            <name>setCustomerWithPasswordContainsWhitespace</name>
+            <description>Create customer via API with password contains whitespace</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="HOME-PC"/>
+                <label name="thread" value="15788@HOME-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1607968438199" stop="1607968438225" status="passed">
+            <name>setCustomerWithPasswordWithoutLowerCaseLetters</name>
+            <description>Create customer via API with password without lower case letters</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="HOME-PC"/>
+                <label name="thread" value="15788@HOME-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1607968438227" stop="1607968438270" status="passed">
+            <name>setCustomerWithPasswordWithoutNumbers</name>
+            <description>Create customer via API with password without numbers</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="HOME-PC"/>
+                <label name="thread" value="15788@HOME-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1607968438272" stop="1607968438311" status="passed">
+            <name>setCustomerWithPasswordWithoutSpecialCharacters</name>
+            <description>Create customer via API with password without special characters</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="HOME-PC"/>
+                <label name="thread" value="15788@HOME-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1607968438313" stop="1607968438390" status="passed">
+            <name>setCustomerWithPasswordWithoutUpperCaseLetters</name>
+            <description>Create customer via API with password without upper case letters</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="HOME-PC"/>
+                <label name="thread" value="15788@HOME-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1607968438393" stop="1607968438426" status="passed">
+            <name>setCustomerWithWrongFirstName</name>
+            <description>Create customer via API with wrong first name</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="HOME-PC"/>
+                <label name="thread" value="15788@HOME-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1607968438428" stop="1607968438465" status="passed">
+            <name>setCustomerWithWrongLastName</name>
+            <description>Create customer via API with wrong last name</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="HOME-PC"/>
+                <label name="thread" value="15788@HOME-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1607968438466" stop="1607968438495" status="passed">
+            <name>setCustomerWithWrongLogin</name>
+            <description>Create customer via API with wrong login</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="HOME-PC"/>
+                <label name="thread" value="15788@HOME-PC.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="TestNG"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>
